@@ -1,5 +1,6 @@
 def fakto(n):
     if (n<0):
+        return ("number is greater or equal zero")
     elif (n==0):
         return 1
     else:
